@@ -26,3 +26,5 @@ Mình dùng AI để hỗ trợ rà soát lỗi cú pháp HTML/CSS, căn chỉnh
 
 ## 3. Tự đánh giá sau khi làm
 Qua bài này mình nắm rõ hơn cách liên kết file CSS (`css/style.css`), đường dẫn ảnh tương đối (`./assets/1.jpg`), cách chia layout bằng Flexbox/Grid và cách dùng `@media` để trang không bị vỡ khi thu nhỏ cửa sổ trình duyệt.
+## Nguồn ảnh đại diện
+Ảnh đại diện: assets/1.jpg. Nguồn: Ảnh cá nhân do em tự chụp và sử dụng trong dự án website giới thiệu bản thân. Không sử dụng tài nguyên hình ảnh từ bên thứ ba.
